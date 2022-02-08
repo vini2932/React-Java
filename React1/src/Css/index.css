@@ -1,0 +1,130 @@
+#imagem{
+        
+    background-size: contain;
+/*    background-image:url(/Fotos/Punta-Cana-6.jpg) ; 
+*/  
+background-repeat: no-repeat;
+    width: 800px;
+  }
+  
+  body{
+    margin:0;
+}
+  
+  
+
+#imagem{
+        
+  background-size: contain;
+  /*background-image:url(/Fotos/1_PintodaMadrugada2018carnaval6__1_.png) ; 
+  */
+  background-repeat: no-repeat;
+  width: 800px;
+}
+
+li{
+    display: inline;
+   margin-left: 20px;
+}
+#alinhar{
+  margin-left: 30px;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+
+      #cards{
+        display: inline;
+        width: 500px;
+        height: 300px;
+        margin-left: 10px;
+    }
+
+    #cardsimagem{
+      width: 400px;
+      height: 300px; 
+  }
+
+  #imagempromo{
+    width: 300px;
+    height: 200px;
+}
+
+
+#text{
+  text-align: center;
+  color: white;
+  padding-top: 70px;
+ position: absolute ;top: 100px;right: 200px;
+ 
+}
+
+
+#main{
+            
+
+  position: relative;
+  padding-top: 300px;
+  width: 100vw;
+  /*background-image: url(/Fotos/Punta-Cana-6.jpg);
+ */
+ height: 400px;
+ opacity: 0.5;
+
+background-size: cover;
+      }
+
+
+
+      #promo{
+
+        color: orange; 
+        position: relative; top: 30px; border: solid; width: 35px ;height: 20px; background-color: orange;
+      }
+
+
+      #organizar{
+
+        display: flex;
+
+      }
+
+
+      #disconto{
+
+        text-align: center; position: relative ;top: -15px; color: white;
+      }
+
+      #preco{
+
+        color: orange; font-size: 40px; margin-top: -10px;
+
+      }
+      #borda{
+
+        border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);  margin-top: -25px;
+      }
+
+
+      #titulo{
+
+        text-align: center;
+        color: orange;
+        margin-top: 80px; 
+        font-size: 30px;
+      }
+
+
+      #mini{
+        margin-left: 50px;
+      }
+
+      #tituloDestaque{
+
+        font-size:60px;font-family: 'Abril Fatface', cursive; width: 800px
+      }
